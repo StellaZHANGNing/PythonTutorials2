@@ -1,4 +1,4 @@
-from EcnoModel import EconModelClass
+from EconModel import EconModelClass
 class MyModelClass(EconModelClass):
     
     def settings(self):
